@@ -15,7 +15,7 @@ Thanks to @chrisachard for the extremely helpful post about [how to write your f
 
 *I will be making this into a monthly post series where I highlight the tools and resources I'm currently using in my self-directed journey*
 
-My introduction to coding was back in 2002. I was in a highschool computer class and my sole motivation for learning HTML 
+
 
 
 ## Online Curriculum 
